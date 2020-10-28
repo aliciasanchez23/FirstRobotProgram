@@ -1,0 +1,14 @@
+LED light red
+roll at 0 degrees for 50 speed for 3 seconds
+Main LED light orange
+Roll at 180 degrees for 50 speed for 6 seconds
+Main LED light yellow
+ROll at 0 for 50 speed for 3 seconds
+roll at 270 at 50 speed for 3 seconds
+Main LED light purple
+roll 90 at 50 speed for 6 seconds
+Main LED light blue 
+roll 270 at 50 speed for 3 seconds 
+Main LED light green
+Speak ' pretty good right' 
+End 
